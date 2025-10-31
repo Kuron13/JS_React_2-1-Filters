@@ -1,3 +1,6 @@
+https://kuron13.github.io/JS_React_2-1-Filters
+![CI](https://github.com/Kuron13/JS_React_2-1-Filters/actions/workflows/web.yml/badge.svg)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

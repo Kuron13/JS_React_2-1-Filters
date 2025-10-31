@@ -31,7 +31,7 @@ export class PortfolioClass extends React.Component {
     return(
       filteredProjects.map(project => (
         <div className="project-card">
-          <img className="img" src={project.img}/>
+          <img className="img" src={project.img} crossorigin="anonymous />
           <div className="category">{project.category}</div>
         </div>
       ))

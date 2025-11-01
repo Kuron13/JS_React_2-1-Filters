@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css'
 import { PortfolioClass } from './components/PortfolioClass.jsx'
 
